@@ -437,3 +437,29 @@ color_scheme:
     # 夜间图片亮度
     brightness: 70%
 ############################### Color Scheme ############################### > end
+
+comments:
+  title: <i class='fa-solid fa-comments'></i> 评论
+  subtitle:
+  service: giscus
+
+  # giscus
+  # https://giscus.app
+  # https://github.com/laymonage/giscus
+  giscus:
+    # 以下配置按照 yml 格式增删填写即可
+    repo: "kom3ng/blog"
+    repo-id: "R_kgDOLXjvXQ"
+    category: "Announcements"
+    category-id: "DIC_kwDOLXjvXc4Cdfgq"
+    mapping: "pathname"
+    strict: "0"
+    reactions-enabled: "1"
+    emit-metadata: "0"
+    input-position: "bottom"
+    lang: "zh-CN"
+    crossorigin: "anonymous"
+    theme:
+      light: "light" # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/light.css
+      dark: "dark" # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/dark.css
+############################### Comments ############################### > end
