@@ -9,21 +9,33 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: /image/background.png
+  background: /images/background.png
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo:
   title: 'Astrack拟态BLOG'
-  subtitle: '一般通过'
+  subtitle: '一般通过...'
   search: ... # search bar placeholder
   features:
     - name: 文档
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
+    - name: 分类
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f4d6.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4d6.svg
+      url: /categories/
+    - name: 标签
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      url: /tags/
+    - name: 友链
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f517.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f517.svg
+      url: /friends/
     - name: 关于
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
-      url: /contributors/
+      url: /about/
     - name: 源码
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg

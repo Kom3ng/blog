@@ -1,0 +1,9 @@
+- group: Organization Developers # 分组名称
+  description: 组织开发成员  # 分组描述
+  items:
+    - title: 够立小激
+      avatar: https://avatars.githubusercontent.com/u/84974878?v=4
+      url: https://goulixiaoji.github.io
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
