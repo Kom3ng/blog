@@ -9,8 +9,8 @@ dependencies:
     specifier: ^3.7.2
     version: 3.7.2
   hexo:
-    specifier: ^7.0.0
-    version: 7.1.1
+    specifier: ^7.2.0
+    version: 7.2.0
   hexo-cli:
     specifier: ^4.3.2
     version: 4.3.2
@@ -791,8 +791,8 @@ packages:
       strip-indent: 3.0.0
     dev: false
 
-  /hexo@7.1.1:
-    resolution: {integrity: sha512-u6aJXG1npYkZJLl7QEOeTdm9hOwxfsLmFp4qAQVF0OAuNaikrKORjgNsjPmrWwI/tIObwjVJnEUJnV7S+NnUlw==}
+  /hexo@7.2.0:
+    resolution: {integrity: sha512-RYIzl7jfG0i2jH/k5IZg4C1anyHfmKHNUsBKIn9LU0V3iQ0WQrwuOLFDJwaZDenqmzHYJhAVCGAkrBDfF/IlVg==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
