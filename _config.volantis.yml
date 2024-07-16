@@ -229,7 +229,6 @@ rightmenus:
     - hr
     - menus.darkMode
     - plugins.articlePage
-    - music
   ############################
   # - {id: '', name: '', icon: '', link: '', event: '', group: ''}
   # id: 唯一值
@@ -353,7 +352,7 @@ color_scheme:
   # 通用颜色
   common:
     # 主题色
-    theme: '#5cdbd3'
+    theme: '#00BCD4'
     # 链接色
     link: '#2092ec'
     # 按钮色
@@ -631,3 +630,7 @@ article:
         - id: telegram
           img: volantis-static/media/org.volantis/logo/128/telegram.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
 ############################### Article Layout ############################### > end
+
+plugins:
+  darkmode:
+    enable: true
