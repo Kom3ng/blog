@@ -96,7 +96,7 @@ sidebar:
         - icon: fa-solid fa-rss
           url: /atom.xml
         - icon: fa-solid fa-envelope
-          url: mailto:admin@astrack.icu
+          url: mailto:admin@astrack.me
         - icon: fab fa-github
           url: https://github.com/kom3ng/
         - icon: fa-solid fa-headphones-alt
