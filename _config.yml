@@ -115,3 +115,8 @@ feed:
 search:
   enable: true
   service: hexo
+
+jsonContent:
+  ignore:
+    paths:
+      - js/live2d-widget
