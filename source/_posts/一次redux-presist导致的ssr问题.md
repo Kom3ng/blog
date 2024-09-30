@@ -1,7 +1,7 @@
 ---
 title: 一次redux presist导致的ssr问题
 date: 2024-07-18 17:19:46
-tags: js ssr nextjs
+tags: [前端, ssr, nextjs]
 headimg: https://lain.astrack.me/img/blog/8e526a14-8135-4d62-8b5c-e49b0b33e435.png
 ---
 
