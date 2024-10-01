@@ -9,7 +9,7 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://lain.astrack.me/img/blog/background.jpg
+  background: https://lain.astrack.me/img/blog/background.webp
   logo:
   title: 'Astrack拟态BLOG'
   subtitle: '一般通过...'
